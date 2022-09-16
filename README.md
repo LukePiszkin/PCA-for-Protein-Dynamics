@@ -1,2 +1,2 @@
 # PCA-for-Protein-Dynamics
-Scripts for performing PCA analysis of time resolved NMR chemical shifts of proteins (CSP-PCA), fluctuations in molecular dynamics simulations of proteins (MD-PCA), and Normal Mode Analysis of proteins (NMA).
+Scripts for performing PCA analysis of time resolved NMR chemical shifts of proteins (PCA_CSP.py), fluctuations in molecular dynamics simulations of proteins using pytraj (pca_pytraj,py), and Normal Mode Analysis of proteins using the ProDy module (NMA.py).
